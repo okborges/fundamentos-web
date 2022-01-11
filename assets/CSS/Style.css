@@ -1,0 +1,20 @@
+.masthead {
+  color: #e4f348;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 80px;
+  margin-bottom: 61px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.container li {
+  display: inline;
+  padding: 15px;
+}
+
+.size {
+  height: 350;
+  width: 500;
+}
