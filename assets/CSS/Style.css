@@ -1,20 +1,120 @@
-.masthead {
-  color: #e4f348;
-  font-size: 100px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 80px;
-  margin-bottom: 61px;
-  margin-top: 0px;
-  text-align: center;
+body {
+  background-image: url(../img/star.jpg);
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 1024px;
+  height: 578px;
+  left: 0px;
+  top: 1px;
 }
 
-.container li {
+.header li {
   display: inline;
   padding: 15px;
 }
 
-.size {
-  height: 350;
-  width: 500;
+.h1 {
+  position: absolute;
+  width: 316px;
+  height: 88px;
+  left: 353px;
+  top: 246px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 72px;
+  line-height: 88px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #e4f348;
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+}
+
+.h2 {
+  position: absolute;
+  width: 152px;
+  height: 22px;
+  left: 435px;
+  top: 370px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.3em;
+  text-decoration-line: line-through;
+
+  color: #e4f348;
+}
+
+.photo {
+  position: absolute;
+  width: 312px;
+  height: 175px;
+  left: 27px;
+  top: 667px;
+}
+.photo2 {
+  position: absolute;
+  width: 312px;
+  height: 175px;
+  left: 356px;
+  top: 667px;
+}
+.photo3 {
+  position: absolute;
+  width: 312px;
+  height: 175px;
+  left: 685px;
+  top: 667px;
+}
+.photo4 {
+  position: absolute;
+  width: 312px;
+  height: 175px;
+  left: 27px;
+  top: 859px;
+}
+.photo5 {
+  position: absolute;
+  width: 312px;
+  height: 175px;
+  left: 355px;
+  top: 859px;
+}
+.photo6 {
+  position: absolute;
+  width: 312px;
+  height: 175px;
+  left: 684px;
+  top: 859px;
+}
+.photo7 {
+  position: absolute;
+  width: 312px;
+  height: 175px;
+  left: 27px;
+  top: 1051px;
+}
+.photo8 {
+  position: absolute;
+  width: 312px;
+  height: 175px;
+  left: 356px;
+  top: 1051px;
+}
+.photo9 {
+  position: absolute;
+  width: 312px;
+  height: 175px;
+  left: 685px;
+  top: 1051px;
 }
